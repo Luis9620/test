@@ -1,6 +1,6 @@
 test 1
-<<<<<<< HEAD
+
 test 2
-=======
+
 test 2 puto en el master
->>>>>>> a9a16d89a1f30436efd8e0393f967fa9efba9ad8
+
